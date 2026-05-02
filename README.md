@@ -19,7 +19,7 @@ Developed for the **Alpha AI × Polaris Challenge**, this project is a robust, l
 
 Instead of generating a simple "up or down" point prediction (which is notoriously unreliable in crypto), this system models uncertainty. It outputs **confidence intervals** (e.g., 80%, 90%, 95%) that dynamically adapt to real-time market chaos. 
 
-**Live Demo:** *[Insert Streamlit Cloud URL Here]*
+**Live Demo:** *https://shivaansh-btc-predictor.streamlit.app/*
 
 ## 🧠 The Math & Methodology
 
