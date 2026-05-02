@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>₿ BTC Next-Hour Predictor</h1>
+  <h1>AlphaI × Polaris Challenge</h1>
   <p><strong>Advanced Probabilistic Forecasting for Bitcoin Hourly Prices</strong></p>
 
   <p>
