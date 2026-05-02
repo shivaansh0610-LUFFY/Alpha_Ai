@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Alph_Ai × Polaris Challenge</h1>
+  <h1>Alpha_Ai × Polaris Challenge</h1>
   <p><strong>Advanced Probabilistic Forecasting for Bitcoin Hourly Prices</strong></p>
 
   <p>
