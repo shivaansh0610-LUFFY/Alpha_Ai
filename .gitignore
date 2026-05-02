@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+predictions_log.jsonl
+*.egg-info/
+.env
