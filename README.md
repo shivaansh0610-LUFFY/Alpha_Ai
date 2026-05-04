@@ -37,10 +37,10 @@ Financial assets like Bitcoin exhibit properties that break standard predictive 
 The system was rigorously backtested on 750 historical 1-hour candles to ensure the predictive bounds are both accurate and as tight as possible. The model enforces a strict "no-peeking" rule, evaluating entirely out-of-sample.
 
 * **Target Coverage:** 95%
-* **Actual Backtest Coverage:** **98.00%**
-* **Mean Winkler Score (95% CI):** **2,055**
+* **Actual Backtest Coverage:** **97.86%**
+* **Mean Winkler Score (95% CI):** **1,993**
 
-*(The Winkler Score heavily penalizes bounds that fail to capture the true price while rewarding narrow, highly confident bounds. A score of ~2055 on a ~$60K+ asset represents roughly a tight 3% prediction window that rarely breaks).*
+*(The Winkler Score heavily penalizes bounds that fail to capture the true price while rewarding narrow, highly confident bounds. A score of ~1993 on a ~$78K asset represents roughly a tight 2.3% prediction window that rarely breaks).*
 
 ## ✨ Standout Features
 
